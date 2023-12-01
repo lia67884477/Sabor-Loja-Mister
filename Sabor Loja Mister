@@ -1,0 +1,4 @@
+'FBSDKCoreKit', '~> 8.0.0'
+'FBSDKLoginKit', '~> 8.0.0'
+'FBSDKShareKit', '~> 8.0.0'
+'FBSDKGamingServiceKit', '~> 8.0.0'
